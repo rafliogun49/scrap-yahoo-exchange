@@ -1,0 +1,21 @@
+From,To,Yahoo,Bloomberg,XE
+SGD,MYR,https://finance.yahoo.com/quote/SGDMYR=X?p=SGDMYR=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDMYR:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=MYR
+SGD,IDR,https://finance.yahoo.com/quote/SGDIDR=X?p=SGDIDR=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDIDR:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=IDR
+SGD,THB,https://finance.yahoo.com/quote/SGDTHB=X?p=SGDTHB=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDTHB:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=THB
+SGD,VND,https://finance.yahoo.com/quote/SGDVND=X?p=SGDVND=X&.tsrc=fin-srch,https://www.google.com/finance/quote/SGD-VND?sa=X&sqi=2&ved=2ahUKEwiRp-GsipiAAxXycWwGHQbQBQ8QmY0JegQIDRAc,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=VND
+SGD,PHP,https://finance.yahoo.com/quote/SGDPHP=X?p=SGDPHP=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDPHP:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=PHP
+SGD,USD,https://finance.yahoo.com/quote/SGDUSD=X?p=SGDUSD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDUSD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=USD
+USD,THB,https://finance.yahoo.com/quote/THB=X?p=THB=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/USDTHB:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=THB
+USD,VND,https://finance.yahoo.com/quote/VND=X?p=VND=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/USDVND:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=VND
+USD,PHP,https://finance.yahoo.com/quote/PHP=X?p=PHP=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/USDPHP:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=PHP
+USD ,SGD,https://finance.yahoo.com/quote/SGD=X?p=SGD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/USDSGD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=SGD
+MYR,SGD,https://finance.yahoo.com/quote/MYRSGD=X?p=MYRSGD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/MYRSGD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=MYR&To=SGD
+THB,USD,https://finance.yahoo.com/quote/THBUSD=X?p=THBUSD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/THBUSD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=THB&To=USD
+PHP,USD,https://finance.yahoo.com/quote/PHPUSD=X?p=PHPUSD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/PHPUSD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=PHP&To=USD
+VND,USD,https://finance.yahoo.com/quote/VND=X?p=VND=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/USDVND:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=VND
+AUD,SGD,https://finance.yahoo.com/quote/AUDSGD=X?p=AUDSGD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/AUDSGD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=AUD&To=SGD
+CHF,SGD,https://finance.yahoo.com/quote/CHFSGD=X?p=CHFSGD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/CHFSGD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=CHF&To=SGD
+CHF,USD,https://finance.yahoo.com/quote/CHFUSD=X?p=CHFUSD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/CHFUSD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=CHF&To=USD
+SGD,CHF,https://finance.yahoo.com/quote/SGDCHF=X?p=SGDCHF=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDCHF:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=CHF
+SGD,KRW,https://finance.yahoo.com/quote/SGDKRW=X?p=SGDKRW=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/SGDKRW:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=SGD&To=KRW
+KRW,SGD,https://finance.yahoo.com/quote/KRWSGD=X?p=KRWSGD=X&.tsrc=fin-srch,https://www.bloomberg.com/quote/KRWSGD:CUR,https://www.xe.com/currencyconverter/convert/?Amount=1&From=KRW&To=SGD
