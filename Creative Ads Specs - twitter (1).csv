@@ -1,0 +1,112 @@
+Platform,Content type,Option,Design Recommendations,Text Recommendations,Technical Requirements,Image,CTA,assets URL,access
+Twitter,Text Ads,Text Ads,,"Tweet copy: 280 characters. (Note: each link used reduces character count by 23 characters, electing 257 characters for Twitter copy.)",,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Image Ads,Image Ads,,"Tweet copy: 280 characters. (Note: each link used reduces character count by 23 characters, electing 257 characters for Twitter copy.)","File types: PNG and JPEG are recommended. We do not accept BMP or TIFF files. 
+
+Note: GIFs uploaded will render as a static image.
+
+File size: Max 5MB",,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Image Ads,Image Ads with App Buttons,"Image size: 800 x 418 pixels is recommended for 1.91:1 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 1.91:1 or 1:1",App title: Truncated at 200 characters. Included from app store; not customizable.,,,"Install, Open, Play, Shop, Book, Connect, and Order",https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Image Ads,Image Ads with Conversation Buttons,"Image size: 800 x 418 pixels is recommended for 1.91:1 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 1.91:1 or 1:1","Tweet copy: 280 characters (same as above)
+Hashtag: 21 characters, including the hashtag character
+
+Pre-populated user Tweet  (once user clicks on the CTA)
+Tweet copy: 256 characters
+Headline: 23 characters
+
+Thank You Tweet (after user has Tweeted out the Tweet)
+Thank you text: 23 characters
+Thank you URL (optional): 23 characters",,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Image Ads,Image Ads with Polls,"Image size: 800 x 418 pixels is recommended for 1.91:1 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 1.91:1 or 1:1. However, 1:1 will crop to 1.91:1 in mobile timeline.
+
+GIFs are not supported at this time.","Tweet copy: Polls can include up to 280 characters of Tweet copy that appear above the image.
+
+Poll options: 2-4 custom poll options
+
+Once you’ve written your copy and added your image, you can add two to four custom poll responses to create your poll.
+
+Poll copy: 25 characters each","Poll duration
+
+Select a time between a minimum of 5 minutes and a maximum of 7 days. Poll duration starts when the Tweet is created, not when promoted.",,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Image Ads,Image Ads with Website Buttons,"Image size: 800 x 418 pixels is recommended for 1.91:1 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 1.91:1 or 1:1",Website title length: 70 characters.,URL: must begin with http:// or https://,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Image Ads,Standalone Image Ads,"Image size: 1200 x 1200 pixels is recommended for 1:1 aspect ratio. 1200 x 628 pixels is recommended for 1.91:1 aspect ratio. Larger images will be better optimized for when users click to expand images.
+
+Aspect ratio: 1.91:1 or 1:1.",,,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/text-only.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Video Ads,General,"Branding: Highly recommended throughout; if using a logo, it should be persistent in the upper left hand corner. Prominent product placement is highly recommended for driving product consideration.
+
+Thumbnail: 
+Supported files: PNG or JPEG
+Aspect ratio: recommend matching sizing of the video
+Max size: 5MB","Tweet copy: 280 characters. (Note: each link used reduces character count by 23 characters, electing 257 characters for Twitter copy.)","File types: MP4 or MOV
+
+File size: 1 GB max. For optimal performance we strongly recommend to keep files under 30 MB.
+
+Video length: 15 seconds or less is recommended. Up to 2:20 is supported. (Select advertisers are eligible to request an increase up to 10 minutes; however, we advise videos to be 9:55 to account for a range of video files.
+
+Captions: Closed captioning or text overlays are strongly recommended.
+
+Video bitrate: 6,000 - 10,000k (recommended 6,000k) for 1080p. 5,000k - 8,000k (recommended 5,000k) for 720p.
+
+Frame rate: 29.97FPS or 30FPS. Higher is acceptable (support up to 60FPS). If the available video has a lower frame rate don’t try to “upsample” it.
+
+Audio codec: AAC LC (low complexity)
+
+Video codec recommendation: H264, Baseline, Main, or High Profile with a 4:2:0 color space.
+
+Looping: Videos will loop if the video length is under 60 seconds.",,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/promoted-video-1-1.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Video Ads,Standalone Video Ads,"Video size: 1200 x 1200 pixels is recommended for 1:1 aspect ratio. 1920 x 1080 pixels is recommended for 16:9 aspect ratio.
+
+Aspect ratio: 16:9 or 1:1.",,,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/promoted-video-1-1.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Video Ads,Video Ads with Website Buttons,"Video size: 800 x 450 pixels is recommended for 16:9 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 16:9 or 1:1",Website title length: 70 characters.,URL: must begin with http:// or https://,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/promoted-video-1-1.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Video Ads,Video Ads with App Buttons,"Video size: 800 x 450 pixels is recommended for 16:9 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 16:9 or 1:1",App title: Truncated at 200 characters.,,,"Call to Action: Install, Open, Play, Shop, Book, Connect, and Order",https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/promoted-video-1-1.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Video Ads,Video Ads with Conversation Buttons,"Video size: 800 x 450 pixels is recommended for 16:9 aspect ratio.
+Aspect ratio: 16:9
+
+","Conversation Card (original Tweet in timeline)
+Tweet copy: 280 characters (same as above)
+Hashtag: 21 characters, including the hashtag character
+
+Pre-populated user Tweet (once user clicks on the CTA)
+Tweet copy: 256 characters
+Headline: 23 characters
+
+Thank You Tweet (after user has Tweeted out the Tweet)
+Thank you text: 23 characters
+Thank you URL (optional): 23 characters",,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/promoted-video-1-1.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Video Ads,Video Ads with Pools,"Video size: 800 x 450 pixels is recommended for 16:9 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Aspect ratio: 16:9 or 1:1. However, 1:1 will crop to 16:9 in mobile timeline.
+GIFs are not supported at this time.","Tweet copy: Polls can include up to 280 characters of Tweet copy that appear above the video.
+
+Poll options: 2-4 custom poll options
+Poll copy: 25 characters each","Poll duration
+
+Select a time between a minimum of 5 minutes and a maximum of 7 days.",,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/promoted-video-1-1.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Carousel Ads,General,"Media size
+
+Image Carousels: 800 x 418 pixels is recommended for 1.91:1 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+
+Video Carousels: 800 x 450 pixels is recommended for 16:9 aspect ratio. 800 x 800 pixels is recommended for 1:1 aspect ratio.
+Aspect ratio
+
+Image Carousels: 1.91:1 or 1:1 image assets using a single aspect ratio within one carousel.
+
+Video Carousels: 16:9 or 1:1 video assets using a single aspect ratio within one carousel.
+
+For Carousels using mixed media, aspect ratios should remain consistent (1:1 image asset with 1:1 video asset).",,"Number of slides: 2-6 (Images or Videos)
+
+Link: One web or app destination for single-destination Carousels. Up to six unique web destinations for multi-destination Carousels.",,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/en/advertising/carousels/carousels.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Carousel Ads,Website Carousels,,Website title length: 70 characters. ,URL: must begin with http:// or https://,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/en/advertising/carousels/carousels.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Carousel Ads,App Carousels,,App title: Truncated at 200 characters. Included from app store; not customizable.,,,"Call to Action: Install, Open, Play, Shop, Book, Connect, and Order.",https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/en/advertising/carousels/carousels.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
+Twitter,Moment Ads,General,,280 characters,,,,https://cdn.cms-twdigitalassets.com/content/dam/business-twitter/help/specs/moments.png,https://business.twitter.com/en/help/campaign-setup/creative-ad-specifications.html
