@@ -1,0 +1,176 @@
+Platform,Content type,Content,Design recommendations,Text recommendations,Technical requirements,Image,CTA,assets URL,Documentation Link
+Reddit,Promoted Posts,Text Ads,,"Headline: 300 characters
+Body: 40,000 characters
+Comments: Enable or disable",,,,https://assets-global.website-files.com/62d9d95d7903980bb9d54ba1/63a239cac1c19819fc5f93e0_639cce30af26aedd13e3a390_adtype-text.png,"https://redditinc.force.com/helpcenter/s/article/Reddit-Ad-Unit-Specifications
+
+https://www.redditforbusiness.com/advertise/ad-types#reddit-takeover"
+Reddit,Promoted Posts,Image Ads,"Supported formats: JPG, PNG, GIF (GIF files are accepted but will be converted into an image)
+File size: 3MB max
+Recommended aspect ratios: 1:1 square; 4:5 portrait; 4:3 landscape; 16:9 landscape
+Recommended resolutions: 1080x1080 square, 1080x1350 portrait, 1440x1080 landscape, 1920x1080 landscape
+Thumbnail: Displays at 400x300 pixels
+Thumbnail file size: 500KB max","Headline: 300 characters
+Call-to-action: Choose from available CTAs (optional)","Destination URL: Required
+Display URL: Optional
+Comments: Enable or disable
+",,"Download
+Install
+Shop Now
+View More
+Sign Up
+Learn More
+Contact Us
+Get Showtimes
+Get Quote
+See Menu
+Apply Now
+Watch Now
+Play Now
+Pre-order Now
+Order Now",https://assets-global.website-files.com/62d9d95d7903980bb9d54ba1/63a239c9db1c222fd64dbc79_639cce2f84d8d42ca56ad49c_adtype-image.png,"https://redditinc.force.com/helpcenter/s/article/Reddit-Ad-Unit-Specifications
+
+https://www.redditforbusiness.com/advertise/ad-types#reddit-takeover"
+Reddit,Promoted Posts,Video Ads,"Supported formats: MP4, MOV (ProRes not accepted)
+File size: 1GB max
+Recommended aspect ratios: 1:1 square; 4:5 vertical; 4:3 classic; 16:9 full landscape
+Recommended length: 0:05–0:30s
+Maximum length: 15:00 minutes
+Frame rate: Up to 30FPS
+Autoplay: native video (direct upload) will autoplay, third-party videos will be click-to-play
+Thumbnail: Displays at 400x300 pixels, select from video or upload your own
+Thumbnail file size: 500KB max","Headline: 300 characters
+Call-to-action: Choose from available CTAs (optional)","Destination URL: Optional
+Display URL: Optional
+Comments: Enable or disable",,"Download
+Install
+Shop Now
+View More
+Sign Up
+Learn More
+Contact Us
+Get Showtimes
+Get Quote
+See Menu
+Apply Now
+Watch Now
+Play Now
+Pre-order Now
+Order Now",https://assets-global.website-files.com/62d9d95d7903980bb9d54ba1/63a239cb9ab7dc14054ce510_639cce2ff5414f3548185b9e_adtype-video.png,"https://redditinc.force.com/helpcenter/s/article/Reddit-Ad-Unit-Specifications
+
+https://www.redditforbusiness.com/advertise/ad-types#reddit-takeover"
+Reddit,Promoted Posts,Carousel Ads,"Images: 2–6 images, 1200x1200 pixels, for desktop-only campaigns we also support 1200x628 pixels
+Supported formats: JPG, PNG, GIF (GIF files are accepted but will be converted into an image)
+Aspect ratio: 1:1 or 16:9
+*It is recommended to use uniform aspect ratios for all images in the carousel unit for best performance 
+File size: 20MB max each, (3MB for GIFs, 3–10s in length)
+Thumbnail: Displays at 400x300 pixels, recommended for classic mode viewing
+Thumbnail file size: 500KB max","Headline: 300 characters
+Caption: 50 characters, appears under card image
+Call-to-action: Choose from available CTAs (optional)
+
+","Destination URL: Required for each card. The URL can be the same across cards or different. Note: URLs must start with HTTPS and can't end in a semicolon.
+Display URL: Optional
+Comments: Enable or disable",,"Download
+Install
+Shop Now
+View More
+Sign Up
+Learn More
+Contact Us
+Get Showtimes
+Get Quote
+See Menu
+Apply Now
+Watch Now
+Play Now
+Pre-order Now
+Order Now",https://assets-global.website-files.com/62d9d95d7903980bb9d54ba1/63a239c98c341ed3cc5a069e_639cce31598a9c7ce09bccfc_adtype-carousel.png,"https://redditinc.force.com/helpcenter/s/article/Reddit-Ad-Unit-Specifications
+
+https://www.redditforbusiness.com/advertise/ad-types#reddit-takeover"
+Reddit,Promoted Posts,Conversation Placements,"Thumbnail: We strongly recommend a 400x300 thumbnail which renders best in conversation placement. If a 400x300 thumbnail isn't provided, we'll use the standard 1200x628 image, but resizing may impact image quality.",Headline: Headlines will be truncated to 100 characters on mobile/mobile web and 250 characters on desktop,Not supported: Carousel and text-only ads. A placeholder image will be added if no image/video post is uploaded to conversation.,,,https://assets-global.website-files.com/62d9d95d7903980bb9d54ba1/63a239cb007604d25f99b622_639cce314c9b192e48695cc7_adtype-conversationplacement.png,"https://redditinc.force.com/helpcenter/s/article/Reddit-Ad-Unit-Specifications
+
+https://www.redditforbusiness.com/advertise/ad-types#reddit-takeover"
+Reddit,Premium Takeover units,Banners,"Supported formats: JPG, PNG
+File size: 150KB max 
+Top banner resolution: Above the fold, 300x600 pixels or 300x250 pixels
+Sticky banner resolution: Below the fold, 300x250 pixels",,,no picture,,,
+Reddit,Premium Takeover units,Trending Tile On Popular & Search Pages,"Mobile card image: 219x96 pixels
+Desktop card image: 237x178 pixels
+Supported formats: JPG or PNG
+Thumbnail: Displays at 105x105 pixels in the Steady State search unit
+Thumbnail file size: 1MB max","Headline: 15 characters
+Sub-headline: 50 characters (desktop only)",,no picture,,,
+Reddit,Premium Takeover units,Promoted Post On Trending Page,"Supported formats: JPG, PNG, MP4, MOV
+Image resolution: 1200x628 pixels
+Image file size: 3MB max
+Video frame rate: 30FPS
+Video displays at: 1.9:1 aspect ratio
+Thumbnail: Displays at 400x300 pixels
+Thumbnail file size: 500KB max","Headline: 300 characters
+Call-to-action: Choose from available CTAs (optional)
+
+",Destination URL: Optiona,no picture,"Download
+Install
+Shop Now
+View More
+Sign Up
+Learn More
+Contact Us
+Get Showtimes
+Get Quote
+See Menu
+Apply Now
+Watch Now
+Play Now
+Pre-order Now
+Order Now",,
+Reddit,Premium Takeover units,Vertical Video Placement,"Supported formats: MP4, MOV (ProRes not accepted)
+File size: 1GB max
+Recommended aspect ratios: 9:16 vertical; 4:5 vertical; 1:1 square
+Accepted aspect ratios: 4:3 classic; 16:9 full landscape
+Recommended length: 0:05–0:30s
+Frame rate: Up to 30FPS
+Autoplay: native video (direct upload)
+Thumbnail: recommended
+Thumbnail file size: 500KB max","Headline: 150 characters
+Call-to-action: Choose from available CTAs (optional)
+
+","Destination URL: Optional
+Comments: On or Off",no picture,"Download
+Install
+Shop Now
+View More
+Sign Up
+Learn More
+Contact Us
+Get Showtimes
+Get Quote
+See Menu
+Apply Now
+Watch Now
+Play Now
+Pre-order Now
+Order Now",,
+Reddit,Premium Takeover units,Video Spotlight Unit,"Supported formats: MP4, MOV (ProRes not accepted)
+File size: 1GB max
+Recommended aspect ratios: 9:16 vertical only
+Recommended length: 0:05–0:30s
+Frame rate: Up to 30FPS
+Autoplay: native video (direct upload)","Headline: 150 characters
+Call-to-action: Choose from available CTAs (optional)
+","Destination URL: Optional
+Comments: Off (default)",no picture,"Download
+Install
+Shop Now
+View More
+Sign Up
+Learn More
+Contact Us
+Get Showtimes
+Get Quote
+See Menu
+Apply Now
+Watch Now
+Play Now
+Pre-order Now
+Order Now",,

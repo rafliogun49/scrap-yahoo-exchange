@@ -1,0 +1,256 @@
+Platform,Content type,Content,Design Recommendations,Text Recommendations,Technical Requirements,Image,CTA,Others Info,image url,access,🔐 Softr Record ID
+Linkedin,Sponsored Content,Single Image Ads,"File Type: jpg, png, or gif
+File Size: 5 MB
+Image Ratio:
+1.91:1 (horizontal, desktop and mobile)
+1:1 (square, desktop and mobile)
+1:1.91 (vertical, mobile only)","Ad name (optional): 255 characters
+Headline: 70 characters
+Introductory text: 150 characters
+Description (LAN only): 70 characters. Only required if using LinkedIn Audience Network (LAN).","File Type: jpg, png, or gif
+File Size: 5 MB
+Horizontal / Landscape
+
+Horizontal images will deliver to both desktop and mobile
+Minimum: 640 x 360 pixels
+Maximum: 7680 x 4320 pixels
+Recommended: 1.91:1 - 1200 x 628 pixels
+Square
+
+LinkedIn recommends this aspect ratio for delivery across both desktop and mobile
+Minimum: 360 x 360 pixels
+Maximum: 4320 x 4320 pixels
+Recommended: 1:1 - 1200 x 1200 pixels
+Vertical
+
+LinkedIn recommends this aspect ratio for best performance on CTR on mobile (vertical images do not deliver to desktop)
+Minimum: 360 x 640 pixels
+Maximum: 1254 x 2400 pixels
+Recommended:
+1:1.91 - 628 x 1200 pixels
+2:3 - 600 x 900 pixels
+4:5 - 720 x 900 pixels",,"Apply
+Download
+View Quote
+Learn More
+Sign Up
+Subscribe
+Register
+Join
+Attend
+Request Demo","Landing page URL: Required
+URL prefix: http:// or https://
+URL characters: 2000 characters for destination field URL""",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/single-image/P02-01-dsk-e1-v1@3x.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/single-image-ads,5nXcPbw56bL9gfBKDn4NCs
+Linkedin,Sponsored Content,Video Ads,"Video File Type: MP4
+Video Sound Format: AAC or MPEG4
+Recommended frame rate: 30 frames per second
+Custom Thumbnail: Optional but recommended
+Ratio:
+4:5 (vertical, 0.8)
+9:16 (vertical; 0.57)
+16:9 (landscape; 1.78)
+1:1 (square; 1.0)","Ad name (optional): 255 characters
+Headline: 70 characters. Maximum of 200 characters
+Introductory text: 150 characters. Maximum of 600 characters","Video File Size: 75 KB (min) - 200 MB (max)
+Video Duration: 3 seconds - 30 minutes
+Video Captions: Optional
+Video Sound Rate: Less than 64 KHz
+Minimum width: 360 pixels
+Maximum width: 1920 pixels
+Minimum height: 360 pixels
+Maximum height: 1920 pixels
+Minimum aspect ratio: 9:16 (0.563)
+Maximum aspect ratio: 16:9 (1.778)",,"Apply
+Download
+View Quote
+Learn More
+Sign Up
+Subscribe
+Register
+Join
+Attend
+Request Demo","Vertical (4:5):
+Min 360 x 450 pixels
+Max 1536 x 1920 pixels
+Vertical (9:16):
+Min 360 x 640 pixels
+Max 1080 x 1920 pixels
+Landscape (16:9):
+Min 640 x 360 pixels
+Max 1920 x 1080 pixels
+Square (1:1):
+Min 360 x 360 pixels
+Max 1920 x 1920 pixels
+Aspect ratio tolerance: 5%
+
+Video Thumbnail File Format: JPG or PNG
+Video Thumbnail Max File Size: 2 MB Video
+Thumbnail Aspect Ratio & Resolution: Match video",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/video/video-ads-324x580-v3.gif.original.gif,https://business.linkedin.com/marketing-solutions/success/ads-guide/video-ads,3srGxxw6AeVdAxPNoQ9GuS
+Linkedin,Sponsored Content,Carousel Ads,"File Type: JPG or PNG
+Ratio: 1:1
+Recommended Resolution: at least 1080 x 1080 pixels","Ad name (optional): 255 characters
+Card headline: 45 characters
+Introductory text: 255 characters","Number of carousel cards: 2-10
+Maximum File Size: 10 MB",,,"Landing page URL: Required
+URL prefix: http:// or https://
+URL characters: 2000 characters for destination field URL",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/carousel-ads.gif.original.gif,https://business.linkedin.com/marketing-solutions/success/ads-guide/carousel-ads,2owMHeDEFXAZT2ueYuyH5o
+Linkedin,Sponsored Content,Event Ads,"Image Ratio: 4:1 (image will be pulled from the Event page)","Event name (optional): 255 characters
+Introductory text :  600 characters",,,,"Event URL: Required, LinkedIn Event page URLs only
+URL prefix: http:// or https://
+URL characters: 2000 characters for destination field URL",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/ads-guide-gateway/Event-Ads-thumbnail-1857x1053.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/event-ads,JcwMnwi4kirrQnfTkPaQZC
+Linkedin,Sponsored Content,Document Ads,"File type: PDF, DOC, DOCX, PPT, PPTX
+File size: 100 MB
+Aspect Ratio: Vertical, Horizontal, Square
+Number of pages: under 10 pages (300 pages maximum or 1 MM words)
+
+Use any of the standard PDF layouts: 
+Letter: 8.5 by 11 inches
+Tabloid: 11 by 17 inches
+Legal: 8.5 by 14 inches
+Statement: 5.5 by 8.5 inches
+Executive: 7.25 by 10.5 inches
+Folio: 8.5 by 13 inches
+A3: 11.69 by 16.54 inches
+A4: 8.27 by 11.69 inches
+B4: 9.84 by 13.90 inches
+B5: 6.93 by 9.84 inches
+
+Metric
+Letter: 21.59 by 27.94 centimeters
+Tabloid: 27.94 by 43.18 centimeters
+Legal: 21.59 by 35.56 centimeters
+Statement: 13.97 by 21.59 centimeters
+Executive: 18.41 by 26.67 centimeters
+Folio: 21.59 by 33.02 centimeters
+A3: 29.69 by 42.01 centimeters
+A4: 21 by 29.69 centimeters
+B4: 24.99 by 35.30 centimeters
+B5: 17.60 by 24.99 centimeters","Ad Text Recommendations
+Ad name (optional): 255 characters
+Headline: 70 characters
+Introductory text: 150 characters","PDFs with multiple layers must be flattened or merged.
+PDFs with multiple sized pages must be fit to the same page size.
+Review LinkedIn’s Copyright Policy to ensure your document is compliant.
+Please ensure that your document has secure hyperlinks.",,,No URL requirements,https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/doc-ads/fg/SC-Document-Ads-how-you-can-use-document-ads-illus-dsk-v01.png/jcr:content/renditions/SC-Document-Ads-how-you-can-use-document-ads-illus-dsk-v05.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/document-ads,4GoqQbaqhqHqK6MuV4vtzL
+Linkedin,Sponsored Messaging,Conversation Ads,"Banner File Type (optional): JPG or PNG
+Banner Image Size (optional): 300 x 250 pixels
+Banner Image File Size (optional): 2MB
+Sender Image: We will use the LinkedIn profile image of designated sender","Ad Name (optional): 255 characters
+Message Text: 500 characters 
+Custom Footer: 2500 characters
+Call-to-Action: 25 characters","Landing page URL: Required
+URL prefix: http:// or https://
+URL characters: 1024 characters for destination field URL",,,,https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/conversation/P08-01-dsk-e1-v1@3x.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/conversation-ads,AtshgWaYxzysRPmRm72n4m
+Linkedin,Lead Gen Forms,Lead Gen Form,"Form Name: 256 characters
+Landing page URL: 2000 characters
+Offer Headline:  60 characters
+Offer Detail (optional): 160 characters
+Privacy Policy: 2000 characters
+Call-to-Action: 20 characters
+Confirmation Message: 300 characters",,,,,"Form Fields: 3-4 fields are recommended as best practice. 12 fields are the maximum
+
+Available profile information form fields:
+Contact
+    First name
+    Last name
+    Email address
+    LinkedIn Profile URL
+    Phone number
+    City
+    State/Province
+    Country/Region
+    Postal/Zip code
+    Work email
+    Work phone number
+Image showing Lead Gen Forms
+Work
+    Job title
+    Function
+    Seniority
+Company
+    Company name
+    Company size
+Industry
+    Education Degree
+    Field of study
+    University / School
+    Start date
+    Graduation date
+Demographic
+    Gender
+
+Number of custom questions (optional): 3
+Number of characters in a custom question: 100",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/lead-gen-forms/P10-01-dsk-e1-v1@3x.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/lead-gen-forms,878VVRAYoBth1Q5VgvB15S
+Linkedin,Text and Dynamic Ads,Text Ads,"Logo File Type : JPG or PNG
+Logo File Size: 2MB
+Logo image dimensions: 100x100 pixels","Headline: 25 characters
+Description: 75 characters",,,"Apply
+Download
+View Quote
+Learn More
+Sign Up
+Subscribe
+Register
+Join
+Attend
+Request Demo
+
+Image of Text Ads on LinkedIn","Landing page URL: Required
+URL prefix: http:// or https://
+URL characters: 2000 characters for destination field URL",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/text/Text-Ads-ads-you-maybe-interested-dsk-v02.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/text-ads,5ADqCYYbk145bChA4voU6x
+Linkedin,Text and Dynamic Ads,Spotlight Ads,"Company Logo Size: 100 x 100 pixels
+Company Logo File Type: JPG or PNG
+Company Logo File Size: 2 MB
+Background Image File Type (optional): JPG or PNG
+Background Image Dimensions (optional): 300 x 250 pixels
+Background Image File Size (optional): 2 MB","Headline: 50 characters
+Description: 70 characters
+Company Name: 25 characters
+Call-to-Action: 18 characters",,,"Apply
+Download
+View Quote
+Learn More
+Sign Up
+Subscribe
+Register
+Join
+Attend
+Request Demo","Landing page URL: required
+URL prefix: http:// or https://
+URL characters: 500 characters for destination field URL",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/spotlight/Spotlight-Ads-get-access-dsk-v02.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/spotlight-ads,Q1Eq5CaS6of7fod9vc4VGm
+Linkedin,Text and Dynamic Ads,Follower Ads,"Company Logo Size: 100x100px
+Company Logo File Type: JPG or PNG
+Company Logo File Size: 2MB","Headline: 50 characters
+Description: 70 characters
+Company Name: 25 characters ",,,"Visit careers
+Visit company
+Visit jobs Visit life","Description Option:
+""JANE, stay informed of industry news and trends
+Get the latest jobs and industry news
+Get the latest on jobs, news and more Imagine your next career move
+Keep up with interesting, relevant updates
+Opportunities are knocking on your door
+Ready for your next opportunity?
+Receive daily or weekly company updates
+Receive daily or weekly organization updates
+Stay informed on industry news and trends
+Visit the careers page for ACME!
+Visit the company for ACME
+Visit the organization page for ACME!
+You've got the skills, ACME has the opportunities!
+You've got the skills, we've got the opportunities!""
+
+Headline Option:
+JOE, ACME is hiring!
+JOE, current recruiting in your sector!
+JOE, explore relevant opportunities with ACME!
+JOE, get the latest on ACME new, jobs, and more!
+JOE, Get the latest on ACME News, Jobs, and More
+JOE, grow your business with news and insights from ACME
+JOE, grow your career by following ACME
+JOE, keep up with relevant opportunities at ACME
+JOE, keep up with the latest insights from ACME
+JOE, ready for your dream job?
+JOE, you might like to follow ACME
+Grow your business wih insights from ACME
+Grow your business with news and insights from ACME",https://content.linkedin.com/content/dam/me/business/en-us/amp/marketing-solutions/images/oba-v2/3x/follower/Followers-Ads-get-lastest-job-dsk-v02.png.original.png,https://business.linkedin.com/marketing-solutions/success/ads-guide/follower-ads,HZAf3r4RZ2dbnRnMJif8cT
